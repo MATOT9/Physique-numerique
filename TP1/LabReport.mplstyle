@@ -44,4 +44,3 @@ savefig.format : pdf
 savefig.bbox : tight
 
 # Text parameters
-text.usetex : True
