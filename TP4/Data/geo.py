@@ -1,9 +1,6 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
 # TP reconstruction TDM (CT)
 # Prof: Philippe Després
 # programme: Dmitri Matenine (dmitri.matenine.1@ulaval.ca)
-
 
 # fichier contenant la description de la géométrie
 # d'acquisition
